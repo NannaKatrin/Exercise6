@@ -1,0 +1,2 @@
+hi = "blabla"
+print(hi)
